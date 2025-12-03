@@ -1,3 +1,4 @@
 *.ipynb
 *.txt
 noaa_openapi.json
+noaa_client/
