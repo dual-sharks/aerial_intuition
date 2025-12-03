@@ -2,3 +2,5 @@
 *.txt
 noaa_openapi.json
 noaa_client/
+
+__pycache__/
